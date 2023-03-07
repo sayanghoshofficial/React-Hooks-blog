@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sayanghoshofficial/React-Hooks-blog/static/css/main.f2ec55cb.css",
+    "main.js": "/sayanghoshofficial/React-Hooks-blog/static/js/main.80970a65.js",
+    "index.html": "/sayanghoshofficial/React-Hooks-blog/index.html",
+    "main.f2ec55cb.css.map": "/sayanghoshofficial/React-Hooks-blog/static/css/main.f2ec55cb.css.map",
+    "main.80970a65.js.map": "/sayanghoshofficial/React-Hooks-blog/static/js/main.80970a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ec55cb.css",
+    "static/js/main.80970a65.js"
+  ]
+}
