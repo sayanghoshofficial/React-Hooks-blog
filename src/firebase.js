@@ -3,15 +3,15 @@ import "firebase/compat/firestore";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCFyPpqPB6ZxzDdG1F3eD8ZvDU6AC6dWX0",
-    authDomain: "react-hooks-blog-417bb.firebaseapp.com",
-    projectId: "react-hooks-blog-417bb",
-    storageBucket: "react-hooks-blog-417bb.appspot.com",
-    messagingSenderId: "654548450215",
-    appId: "1:654548450215:web:200cbaafe43f71ed851482"
-  };
+  apiKey: "AIzaSyBmqfuYZRVYr_ZTXbSB6EFBdy_6VS1T3kA",
+  authDomain: "react-hooks-blog-c9eeb.firebaseapp.com",
+  projectId: "react-hooks-blog-c9eeb",
+  storageBucket: "react-hooks-blog-c9eeb.appspot.com",
+  messagingSenderId: "16036073972",
+  appId: "1:16036073972:web:e882341d2fe0db0ecc69a1"
+};
 
-  // Initialize Firebase
+// Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
 
